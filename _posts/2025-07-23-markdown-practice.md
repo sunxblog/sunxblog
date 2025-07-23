@@ -7,8 +7,8 @@ tags: [Markdown, Blog]
 
 # 我的 Markdown 排版練習 📝
 
-這是我使用 Markdown 撰寫的第一篇格式化文章！
-以上是CHATGPT幫我寫的
+這是我使用 Markdown 撰寫的第一篇格式化文章！  
+以上是CHATGPT幫我寫的  
 我把蜘蛛人的主線任務解完了，有點空虛呢
 
 ---
