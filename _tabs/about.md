@@ -9,6 +9,11 @@ title: About
 icon: fas fa-user
 order: 4
 ---
+## 我的頭像
+
+![Sunny 的頭像](https://github.com/sunxblog/sunxblog/blob/main/assets/img/favicons/avatar.jpg?raw=true)
+
+
 
 # 嗨，我是 Sunny ☀️
 
