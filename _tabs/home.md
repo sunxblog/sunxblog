@@ -2,6 +2,7 @@
 title: "Hi, I'm Sunny 👋"
 layout: page
 permalink: /
+order: 1
 ---
 
 <p align="center">
