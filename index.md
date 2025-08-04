@@ -1,6 +1,9 @@
 ---
+title: ""
 layout: page
-title: "Hi, I'm Sunny 👋"
+permalink: /
+nav_exclude: true
+
 ---
 
 <p align="center">
