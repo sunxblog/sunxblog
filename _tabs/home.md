@@ -3,7 +3,7 @@ title: Home
 icon: fas fa-home
 order: 1
 layout: page
-permalink: /
+permalink: /home
 ---
 
 <p align="center">
