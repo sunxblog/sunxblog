@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome
 icon: fas fa-home
 order: 0
 layout: page
