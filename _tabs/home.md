@@ -1,9 +1,9 @@
 ---
-title: Welcome
+title: Home
 icon: fas fa-home
-order: 0
+order: 1
 layout: page
-permalink: /welcome
+permalink: /
 ---
 
 <p align="center">
@@ -21,4 +21,3 @@ permalink: /welcome
   📩 <a href="mailto:sunnyhan.0303@gmail.com">Email</a> ・
   🐱 <a href="https://github.com/sunxblog" target="_blank">GitHub</a>
 </p>
-
