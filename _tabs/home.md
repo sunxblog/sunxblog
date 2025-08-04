@@ -1,7 +1,7 @@
 ---
 title: Home
 icon: fas fa-home
-order: 1
+order: 0
 layout: page
 permalink: /welcome
 ---
