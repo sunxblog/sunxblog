@@ -1,8 +1,9 @@
 ---
-title: "Hi, I'm Sunny 👋"
+title: Home
+icon: fas fa-home
+order: 1
 layout: page
 permalink: /
-order: 1
 ---
 
 <p align="center">
@@ -17,6 +18,7 @@ order: 1
 </p>
 
 <p align="center">
-  📩 <a href="mailto:example@email.com">Email</a> ・
+  📩 <a href="mailto:sunnyhan.0303@gmail.com">Email</a> ・
   🐱 <a href="https://github.com/sunxblog" target="_blank">GitHub</a>
 </p>
+
