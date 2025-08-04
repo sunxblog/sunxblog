@@ -1,8 +1,9 @@
 ---
 title: Posts
 icon: fas fa-archive
-order: 2
+order: 1
 layout: page
+permalink: /posts/
 ---
 
 {% for post in site.posts %}
