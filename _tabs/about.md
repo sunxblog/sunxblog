@@ -31,6 +31,5 @@ order: 4
 > 永遠不要懷疑你自己可以重新開始的力量。
 > <p style="font-size: 22px; text-align: center;"><strong>🌟 感謝你來到這裡！🌟</strong></p>
 
-⬅️ [回首頁 Sunny's Welcome Page](/)
 ---
 
